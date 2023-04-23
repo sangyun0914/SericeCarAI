@@ -1,0 +1,27 @@
+[submodule "Car-Damage-Detetion-Detectron2"]
+	path = Car-Damage-Detetion-Detectron2
+	url = git@github.com:SPARK10-SCA/Car-Damage-Detetion-Detectron2.git
+[submodule "car_damage_detection_part"]
+	path = car_damage_detection_part
+	url = git@github.com:SPARK10-SCA/car_damage_detection_part.git
+[submodule "car_damage_detection_damage"]
+	path = car_damage_detection_damage
+	url = git@github.com:SPARK10-SCA/car_damage_detection_damage.git
+[submodule "car_damage_detection_severity"]
+	path = car_damage_detection_severity
+	url = git@github.com:SPARK10-SCA/car_damage_detection_severity.git
+[submodule "SCA_application"]
+	path = SCA_application
+	url = git@github.com:SPARK10-SCA/SCA_application.git
+[submodule "SCA_web"]
+	path = SCA_web
+	url = git@github.com:SPARK10-SCA/SCA_web.git
+[submodule "SCA_api"]
+	path = SCA_api
+	url = git@github.com:SPARK10-SCA/SCA_api.git
+[submodule "repair_method_prediction"]
+	path = repair_method_prediction
+	url = git@github.com:SPARK10-SCA/repair_method_prediction.git
+[submodule "damage_price_estimation"]
+	path = damage_price_estimation
+	url = git@github.com:SPARK10-SCA/damage_price_estimation.git
